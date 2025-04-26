@@ -8,7 +8,7 @@ nav: lectures
 ##Lectures
 | Lecture	 | Lecture Date	|Topics	|Related Readings and Links |	Homeworks & Assignments	| Quizes    | 
 | -------- | ---------- |----------------------------------------------------|----------------------------------------|---|---|
-| 1        | 1402-11-14 |	<a href="/Courses/40959/14032/Lect-1.pdf" Introduction: what is deep generative models?>    | Chapter 20 of MUR  \n Chapter 1 of TOM | H | Q |
+| 1        | 1402-11-14 |	[Introduction: what is deep generative models?][/Courses/40959/14032/Lect-1.pdf]     | Chapter 20 of MUR  \n Chapter 1 of TOM | H | Q |
 
 Test
 <h3 id="toc_2">Lecture Schedule (may be updated as needed)</h3>
