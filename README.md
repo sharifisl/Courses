@@ -1,9 +1,5 @@
 ## Deep Generative Models                                      Spring 2025
----
-layout: default
-title: Lectures
-nav: lectures
----
+
 
 ##Lectures
 | Lecture	 | Lecture Date	|Topics	|Related Readings and Links |	Homeworks & Assignments	| Quizes    | 
